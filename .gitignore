@@ -96,6 +96,9 @@ _ReSharper.*
 bin
 obj
 packages
+.vs/Chess/v16
+bin/Debug
+obj/Debug
 
 # Chutzpah Test files
 _Chutzpah*
