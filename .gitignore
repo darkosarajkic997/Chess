@@ -90,16 +90,6 @@ StyleCopReport.xml
 *.svclog
 *.scc
 
-*.suo
-*.user
-_ReSharper.*
-bin/
-*.obj*
-packages
-.vs/Chess/v16
-bin/Debug
-obj/Debug
-
 # Chutzpah Test files
 _Chutzpah*
 
@@ -384,3 +374,6 @@ Temporary Items
 # Ignore "InteropTests/NativeTests/out"
 InteropTests/NativeTests/out
 /src/System.Windows.Forms/src/comctl32.dll
+
+bin/
+obj/
