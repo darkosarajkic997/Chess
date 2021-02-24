@@ -375,5 +375,5 @@ Temporary Items
 InteropTests/NativeTests/out
 /src/System.Windows.Forms/src/comctl32.dll
 
-bin/
-obj/
+bin/Debug
+obj/Debug
