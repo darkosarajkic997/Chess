@@ -93,8 +93,8 @@ StyleCopReport.xml
 *.suo
 *.user
 _ReSharper.*
-bin
-obj
+bin/
+*.obj*
 packages
 .vs/Chess/v16
 bin/Debug
